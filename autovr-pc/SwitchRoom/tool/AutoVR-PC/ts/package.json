@@ -1,0 +1,1 @@
+{"name":"autovr-windows-agent","version":"1.0.0","private":true,"type":"module","scripts":{"build":"frida-compile pc.ts -o pc-agent.js --no-source-maps"},"dependencies":{"frida-il2cpp-bridge":"0.14.0"},"devDependencies":{"@types/frida-gum":"18.5.1","frida-compile":"16.4.2"}}

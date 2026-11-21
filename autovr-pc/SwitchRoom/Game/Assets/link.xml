@@ -1,0 +1,10 @@
+<linker>
+  <assembly fullname="Assembly-CSharp"><type fullname="SwitchRoom" preserve="all"/></assembly>
+  <assembly fullname="UnityEngine.UI"><type fullname="UnityEngine.UI.Button" preserve="all"/><type fullname="UnityEngine.UI.Selectable" preserve="all"/><type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="all"/></assembly>
+  <assembly fullname="UnityEngine.CoreModule">
+    <type fullname="UnityEngine.Object" preserve="all"/><type fullname="UnityEngine.Behaviour" preserve="all"/>
+    <type fullname="UnityEngine.SceneManagement.Scene" preserve="all"/><type fullname="UnityEngine.SceneManagement.SceneManager" preserve="all"/>
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="all"/><type fullname="UnityEngine.Events.UnityEventBase" preserve="all"/>
+    <type fullname="UnityEngine.Events.InvokableCallList" preserve="all"/>
+  </assembly>
+</linker>
